@@ -2,22 +2,22 @@
 # Introduction
 Welcome to my SQL Portfolio Project  A data-driven exploration of the job market for Data Analyst roles.
 This project analyzes real job postings to uncover:
-The highest-paying data analyst positions
+The highest-paying data Scientist positions
 The most in-demand skills
 Which skills correlate with higher salaries
 The optimal combination of skills that maximize market value
 Check out my SQL queries here: [Project_sql_1 folder](/Project_sql_1/)
 
 # Background
-This project was created to analyze the data analyst job market and understand the relationship between skills, salaries, and employer demand. The goal was to identify high-paying roles, in-demand skills, and the skills that offer the greatest market value.
+This project was created to analyze the data Scientist  job market and understand the relationship between skills, salaries, and employer demand. The goal was to identify high-paying roles, in-demand skills, and the skills that offer the greatest market value.
 
 The analysis focuses on five key questions:
 
-1- What are the top-paying data analyst jobs?
+1- What are the top-paying Data Scientist jobs?
 
 2- What skills do these top-paying roles require?
 
-3- Which skills are most in demand for data analysts?
+3- Which skills are most in demand for Data Scientist?
 
 4- Which skills are associated with higher salaries?
 
@@ -92,7 +92,7 @@ ORDER BY
 
 ![Top Paying skills](assets/top_paying_skills.png)
 
-### 3. In-Demand Skills for Data Analysts
+### 3. In-Demand Skills for Data Scientist
 This query helped identify the skills most frequently requested in job postings, directing focus to areas with high demand.
 
 ```sql
@@ -205,9 +205,9 @@ Throughout this project, I strengthened several key SQL and analytical skills:
 
 From the analysis, several key insights emerged:
 
-1. **Top-Paying Data Analyst Jobs**: Remote-friendly data analyst roles show a wide salary range, with some positions offering exceptionally high compensation.
+1. **Top-Paying Data Scientist Jobs**: Remote-friendly Data Scientist roles show a wide salary range, with some positions offering exceptionally high compensation.
 2. **Skills for Top-Paying Jobs**: High-paying roles consistently require strong SQL proficiency, reinforcing SQL as a foundational skill for competitive salaries.
-3. **Most In-Demand Skills**: SQL remains the most in-demand skill across the job market, making it essential for anyone pursuing a data analyst career.
+3. **Most In-Demand Skills**: SQL remains the most in-demand skill across the job market, making it essential for anyone pursuing a data Scientist career.
 4. **Skills Associated with Higher Salaries**: Specialized technical skills—such as SVN and Solidity—tend to be linked with higher average salaries, indicating a premium on niche expertise.
 5. **Optimal Skills for Maximizing Market Value**: SQL stands out both in demand and salary potential, positioning it as one of the most valuable skills for data analysts looking to strengthen their market competitiveness.
 
