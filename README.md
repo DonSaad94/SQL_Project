@@ -55,7 +55,7 @@ ORDER BY
     salary_year_avg DESC
 LIMIT 10;
 ``` 
-![top paying job for Data sc](assets\output_.png.png)
+![top paying job for Data scientist](assets/top_paying_jobs.png)
 
 ### 2. Skills for Top Paying Jobs
 To understand what skills are required for the top-paying jobs, I joined the job postings with the skills data, providing insights into what employers value for high-compensation roles.
@@ -90,7 +90,7 @@ ORDER BY
     top_paying_jobs.salary_year_avg DESC;
 ```
 
-![Top Paying skills](assets\output.png)
+![Top Paying skills](assets/top_paying_skills.png)
 
 ### 3. In-Demand Skills for Data Analysts
 This query helped identify the skills most frequently requested in job postings, directing focus to areas with high demand.
@@ -188,7 +188,7 @@ ORDER BY
 LIMIT 10;
 ```
 
-![mostdemandskills](assets\output_5.png.png)
+![TOP most demand skills](assets/most_demand_skills.png)
 
 Each query not only served to answer a specific question but also to improve my understanding of SQL and database analysis. Through this project, I learned to leverage SQL's powerful data manipulation capabilities to derive meaningful insights from complex datasets.
 
