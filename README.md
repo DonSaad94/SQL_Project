@@ -7,6 +7,7 @@ The most in-demand skills
 Which skills correlate with higher salaries
 The optimal combination of skills that maximize market value
 Check out my SQL queries here: [Project_sql_1 folder](/Project_sql_1/)
+
 # Background
 This project was created to analyze the data analyst job market and understand the relationship between skills, salaries, and employer demand. The goal was to identify high-paying roles, in-demand skills, and the skills that offer the greatest market value.
 
