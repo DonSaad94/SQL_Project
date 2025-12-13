@@ -1,4 +1,4 @@
--- UPDATE content later 
+
 # Introduction
 Welcome to my SQL Portfolio Project  A data-driven exploration of the job market for Data Analyst roles.
 This project analyzes real job postings to uncover:
